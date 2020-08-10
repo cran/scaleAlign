@@ -1,0 +1,10 @@
+eeabea660e1ce05e5a9ecb75e77dccda *DESCRIPTION
+2f0a4b955b4a3313c1cf71306eb2b7d5 *NAMESPACE
+17b6a44d61d6198939429589f76d4c40 *R/align.R
+a4b4fc9c7a2347c048b59bdb08477f61 *R/alignment_methods.R
+98a6cf16facb3961914a7d066fb81ec2 *R/helpers.R
+ddc1f3dff2cf75603535fdcb26da9656 *README.md
+95348965b1ab9d61e77e4ffe89d88b60 *man/align.Rd
+c81a597b07e2193d77af4e9df9447171 *man/align_raw.Rd
+61fd90f37ef37a3a3a978085b7bbec2f *man/get_ss.Rd
+3f6f5fb9c2fde2b9cfef8bd333ce2b1d *man/get_thresh.Rd
